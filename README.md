@@ -84,7 +84,7 @@ By default, the tool supports up to five slots for storing clipboard entries. If
 This Multiple Clipboard Holder Tool is open-source software licensed under the [MIT License](LICENSE).
 
 ## Author
-[ElCruzo](https://github.com/elcruzo)
+- [ElCruzo](https://github.com/elcruzo)
 
 ---
 
