@@ -2,6 +2,18 @@
 
 Welcome to this repository containing an open-source multi-clipboard holder tool!
 
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+- [Example](#example)
+- [Installation](#installation)
+- [Customization](#customization)
+- [Notes](#notes)
+- [License](#license)
+- [Author](#author)
+
 ## Description
 The Multiple Clipboard Holder Tool is a Python script that allows you to manage and switch between multiple clipboard entries on your Windows system. It provides a convenient way to store and recall clipboard contents, making it easier to work with different pieces of copied text.
 
